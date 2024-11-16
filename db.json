@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "a05d",
+      "name": "teste",
+      "email": "teste@gmail.com",
+      "telefone": "16999882117",
+      "birthDate": "2005-09-15",
+      "gender": "F",
+      "area": "Educacional"
+    }
+  ]
+}
